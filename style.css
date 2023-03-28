@@ -55,3 +55,11 @@ h2{
 p{
     text-align: center;
 }
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    height: 25px;
+}
