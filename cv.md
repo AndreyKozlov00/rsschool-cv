@@ -18,3 +18,29 @@
 * VS Code,Adobe Photoshop
 * Github
 ---
+## Code example:
+
+ ```
+    function t14() {
+        let col = document.querySelectorAll('.i-14');
+        for (let i = 0; i < col.length; i++) {
+            if (col[i].checked == true) {
+                    document.querySelector('.out-14').innerHTML = col[i].value;
+                }
+            
+            }
+        }
+        document.querySelector('.b-14').onclick = t14;
+```
+---
+## Courses:
+1. Сompleted the course about Javascript
+2. Completed the course about Javascript OOP
+3. In progress course:
+* ReactJS
+* React.Lite Level 
+---
+## Languages:
+1. Belarusian - Native
+2. Russian - Native
+3. English - B1
